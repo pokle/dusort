@@ -1,0 +1,3 @@
+Sorts the output of du -h
+
+My typical usage is du -sh * | dusort.pl

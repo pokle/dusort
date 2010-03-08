@@ -1,0 +1,46 @@
+  0B	SacredSink
+  0B	pinger
+  0B	untitled folder
+4.0K	dusort
+4.0K	eventmachine
+4.0K	google maps
+4.0K	mongrel
+8.0K	ruby
+ 12K	rack
+ 20K	whatareyoudoing
+ 36K	partition
+ 44K	grand-central-dispatch
+ 52K	portlet-hello
+ 60K	jquery
+ 64K	console-workout
+ 64K	ipv6scratch
+108K	Journal
+124K	gradle
+136K	scratch
+160K	passion
+176K	FBMLpoc
+212K	xcode3unleashed
+384K	flexible
+500K	Dashcode
+604K	rails-hello
+716K	trains
+824K	nifty-loligo
+880K	grallow
+1.8M	graphdeps
+1.9M	ivy-cookie-cutter
+2.2M	TouchMe
+2.2M	reallysecure
+2.3M	fx
+2.3M	portalis
+2.5M	flex
+5.3M	udpcat
+5.8M	PrefMe
+6.9M	iphone-learning
+7.2M	portlets
+7.9M	hello_world
+8.9M	atb
+ 12M	toyko
+ 14M	udpzero
+ 21M	authlogic_example
+ 24M	asecurewebapp
+ 42M	rails-3

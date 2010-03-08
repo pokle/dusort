@@ -1,0 +1,46 @@
+500K	Dashcode
+176K	FBMLpoc
+108K	Journal
+5.8M	PrefMe
+  0B	SacredSink
+2.2M	TouchMe
+ 24M	asecurewebapp
+8.9M	atb
+ 21M	authlogic_example
+ 64K	console-workout
+4.0K	dusort
+4.0K	eventmachine
+2.5M	flex
+384K	flexible
+2.3M	fx
+4.0K	google maps
+124K	gradle
+880K	grallow
+ 44K	grand-central-dispatch
+1.8M	graphdeps
+7.9M	hello_world
+6.9M	iphone-learning
+ 64K	ipv6scratch
+1.9M	ivy-cookie-cutter
+ 60K	jquery
+4.0K	mongrel
+824K	nifty-loligo
+ 36K	partition
+160K	passion
+  0B	pinger
+2.3M	portalis
+ 52K	portlet-hello
+7.2M	portlets
+ 12K	rack
+ 42M	rails-3
+604K	rails-hello
+2.2M	reallysecure
+8.0K	ruby
+136K	scratch
+ 12M	toyko
+716K	trains
+5.3M	udpcat
+ 14M	udpzero
+  0B	untitled folder
+ 20K	whatareyoudoing
+212K	xcode3unleashed
