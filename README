@@ -1,7 +1,7 @@
 Sorts the output of du -h
 
 My typical usage is:
-.
+
 	du -sh * | dusort.pl
 
 If you have a new enough set of GNU Coreutils, you can usually do without dusort like so:
